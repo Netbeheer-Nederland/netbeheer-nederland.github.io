@@ -1,5 +1,6 @@
 ---
 title: Home
+nav_exclude: true
 ---
 
 # Modellen van Netbeheer Nederland

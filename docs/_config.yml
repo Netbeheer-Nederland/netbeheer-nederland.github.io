@@ -15,10 +15,12 @@ color_scheme: nbnl
 logo: "/assets/images/logo.svg"
 fav_icon: "/assets/images/favicon.png"
 
-aux_links:
-  Begrippen:
-    - https://modellen.netbeheernederland.nl/begrippen
-  Energieregisters:
-    - https://modellen.netbeheernederland.nl/stelsel
-  Dataproducten:
-    - https://modellen.netbeheernederland.nl/docs-new
+nav_external_links:
+  - title: Begrippen
+    url: https://modellen.netbeheernederland.nl/begrippen
+    hide_icon: true
+  - title: Registers
+    url: https://modellen.netbeheernederland.nl/stelsel
+    hide_icon: true
+  - title: Dataproducten
+    url: https://modellen.netbeheernederland.nl/docs-new
