@@ -14,11 +14,3 @@ defaults:
 color_scheme: nbnl
 logo: "/assets/images/logo.svg"
 fav_icon: "/assets/images/favicon.png"
-
-aux_links:
-  Begrippen:
-    - /begrippen
-  Energieregisters:
-    - /stelsel
-  Dataproducten:
-    - /docs-new
