@@ -14,5 +14,5 @@ Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
 * **[Energieregisters](/stelsel)**
   <br>Conceptuele informatiemodellen van de gezaghebbende registers
     
-* **[Dataproducten](/docs-new)**
+* **[Dataproducten](/docs-dev)**
   <br>Modellen voor gegevensuitwisseling en implementatie
