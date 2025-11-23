@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: minimal
 nav_exclude: true
 ---
 
