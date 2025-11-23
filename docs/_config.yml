@@ -1,0 +1,16 @@
+title: Modellen | Netbeheer Nederland
+description: Documentatie van informatiemodellen en begrippen.
+
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+color_scheme: nbnl
+logo: "/assets/images/logo.svg"
+fav_icon: "/assets/images/favicon.png"
