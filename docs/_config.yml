@@ -17,8 +17,8 @@ fav_icon: "/assets/images/favicon.png"
 
 aux_links:
   Begrippen:
-    - /begrippen
+    - https://modellen.netbeheernederland.nl/begrippen
   Energieregisters:
-    - /stelsel
+    - https://modellen.netbeheernederland.nl/stelsel
   Dataproducten:
-    - /docs-new
+    - https://modellen.netbeheernederland.nl/docs-new
