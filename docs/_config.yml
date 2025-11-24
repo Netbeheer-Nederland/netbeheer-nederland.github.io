@@ -10,5 +10,5 @@ logo: "/assets/images/logo.svg"
 fav_icon: "/assets/images/favicon.png"
 
 callouts:
-  highlight:
-    color: yellow
+  note:
+    color: purple
