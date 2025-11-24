@@ -4,6 +4,9 @@ layout: minimal
 nav_exclude: true
 ---
 
+{: .highlight }
+Kijk gerust rond! Aan deze website wordt momenteel nog gewerkt.
+
 # Modellen van Netbeheer Nederland
 
 Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
