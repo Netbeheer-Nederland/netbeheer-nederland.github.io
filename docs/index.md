@@ -11,7 +11,7 @@ Kijk gerust rond! Aan deze website wordt momenteel nog gewerkt.
 
 Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
 
-* **[Begrippen](/begrippen)**
+* **[Begrippen](/energiesysteembeheer)**
   <br>De gemeenschappelijke taal
     
 * **[Energieregisters](/stelsel)**
