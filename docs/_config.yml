@@ -3,6 +3,9 @@ description: Documentatie van informatiemodellen en begrippen.
 
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+
 search_enabled: false
 
 color_scheme: nbnl

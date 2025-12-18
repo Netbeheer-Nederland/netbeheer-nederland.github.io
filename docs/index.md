@@ -1,7 +1,6 @@
 ---
-title: Home
-layout: minimal
-nav_exclude: true
+title: Startpagina
+nav_order: 1
 ---
 
 {: .note }
