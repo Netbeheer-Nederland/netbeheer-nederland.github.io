@@ -3,9 +3,6 @@ title: Over ons
 nav_order: 9
 ---
 
-{: .note }
-Kijk gerust rond! Aan deze website wordt momenteel nog gewerkt.
-
 # Over ons
 
 **Onze missie:** netbeheerdata begrijpelijk en herbruikbaar maken door het publiceren van eenduidige definities.

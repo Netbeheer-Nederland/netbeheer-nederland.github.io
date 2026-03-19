@@ -3,9 +3,6 @@ title: Startpagina
 nav_order: 1
 ---
 
-{: .note }
-Kijk gerust rond! Aan deze website wordt momenteel nog gewerkt.
-
 # Modellen van Netbeheer Nederland
 
 Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
