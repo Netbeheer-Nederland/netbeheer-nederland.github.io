@@ -36,8 +36,6 @@ De definities en regels in onze modellen zijn vaak een directe vertaling van ext
 
 Een dataproductmodel is nooit strijdig met de registermodellen. We mogen data wel filteren of combineren voor een specifieke toepassing, maar we mogen de waarheid van de bron niet geweld aandoen.
 
-Is er nog geen registermodel beschikbaar? Geen probleem. Omdat het begrippenkader op het hoogste niveau volledig is (dankzij het gebruik van [NBility](https://nbility-model.github.io/)-bedrijfsobjecten als topbegrippen), kunnen we dataproducten alvast definiëren en koppelen aan het juiste begrip. Zo kunnen we snel waarde leveren, terwijl we de begrippen verfijnen en de formele registermodellen op de achtergrond uitwerken.
-
 ## Contact
 
 Heb je vragen over onze modellen of werkwijze? Of wil je bijdragen? Neem contact op via [teamsemantiek@netbeheernederland.nl](mailto:teamsemantiek@netbeheernederland.nl).

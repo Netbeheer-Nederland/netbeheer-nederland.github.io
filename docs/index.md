@@ -5,7 +5,7 @@ nav_order: 1
 
 # Modellen van Netbeheer Nederland
 
-Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
+Deze modellen maken data van netbeheerders begrijpelijk en herbruikbaar:
 
 * **[Begrippen](https://begrippen.netbeheernederland.nl)**
   <br>De gemeenschappelijke taal
@@ -15,3 +15,7 @@ Welkom bij de modeldocumentatie. Kies hieronder het onderdeel dat u zoekt:
     
 * **[Dataproducten](/data-products)**
   <br>Modellen voor gegevensuitwisseling en implementatie
+
+---
+
+**[NBility](https://nbility.netbeheernederland.nl)** definieert de bedrijfscontext waarbinnen deze modellen richting en betekenis krijgen.
