@@ -4,7 +4,9 @@ nav_exclude: true
 ---
 
 # Principes
-{: .d-inline-block } draft {: .label .label-yellow }
+{: .d-inline-block }
+draft
+{: .label .label-yellow }
 
 ## Opensource
 
